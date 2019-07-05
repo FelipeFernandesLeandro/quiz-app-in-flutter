@@ -1,16 +1,25 @@
-# flutter_complete_guide
+# Quiz App
 
-A new Flutter project.
+A quiz made in flutter and material design.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites Started
 
-A few resources to get you started if this is your first Flutter project:
+To install and work locally:
+```
+git clone https://github.com/FelipeFernandesLeandro/quiz-app-in-flutter.git
+cd quiz-app-in-flutter
+```
+Make sure to have flutter installed
+https://flutter.dev/docs/get-started/install
+```
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Built With
+* [Flutter](https://flutter.dev/) - Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+* **Felipe Fernandes** - *Initial work*
